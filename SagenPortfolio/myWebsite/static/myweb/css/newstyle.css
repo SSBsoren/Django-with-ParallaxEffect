@@ -1,0 +1,11 @@
+section{
+  height: 630px;
+  background-size: cover;
+}
+.contact{
+  background-color: green;
+  height: 300px;
+}
+.intro{
+  margin-top:100px;
+}
